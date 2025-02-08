@@ -37,7 +37,7 @@ Bienvenido al backend de nuestra aplicación de Gestión de Eventos. Esta API ro
 
 1. Clona este repositorio:
    ```
-   git clone https://tu-repositorio.git
+   git clone https://github.com/JACL613/gestor-eventos-back.git
    cd backend
    ```
 
